@@ -1,4 +1,4 @@
-Summary:
+Summary
     Just a little POC of catching a live packet in order to read bytes / mangle / alter packet payload.
 
     In order to catch the packet inside the python code you'll have to redirect an incoming/outgoing/forwarded packet to the nfqueue.
